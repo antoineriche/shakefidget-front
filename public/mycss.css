@@ -1,0 +1,76 @@
+.row.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+.thumbnail {
+  height: 100%;
+}
+
+.centerBlock {
+  display: table;
+  margin: auto;
+}
+
+.padded {
+  padding: 10px;
+  text-align: center;
+}
+
+.success {
+  background: #5cb85c;
+  color: white;
+}
+
+.danger {
+  background: #d9534f;
+  color: white;
+}
+
+.primary {
+  background: #428bca;
+  color: white;
+}
+
+.building-card {
+  border-style: solid;
+  border-width: 1px;
+  padding:5px;
+  margin-top: 2px;
+}
+
+.dungeon-border {
+  border-style: solid;
+  border-width: 2px;
+  padding:5px;
+  border-radius: 10px;
+}
+
+.dark-border {
+    border-color: #4A148C;
+    background: #CE93D8;
+}
+
+.light-border {
+    border-color: #F57F17;
+    background: #FFF59D;
+}
+
+.myLight {
+  background: #FFF59D;
+  color: black;
+}
+
+.myLightComplete {
+  background: #F57F17;
+}
+
+.myDark {
+  background: #CE93D8;
+}
+
+.myDarkComplete {
+  background: #8E24AA;
+}

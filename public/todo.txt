@@ -1,0 +1,5 @@
+- save avatar in firebase
+- character category
+- pets
+- stage already exist ? confirm ?
+- available improvements
